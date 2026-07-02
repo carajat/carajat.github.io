@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.carajat.twa",
-        "sha256_cert_fingerprints": ["26:6F:46:F8:34:3E:C8:76:77:14:9C:8A:3E:57:A3:92:40:1C:CB:A3:79:57:8B:52:7B:63:1C:11:72:B3:8A:1C"]
+        "sha256_cert_fingerprints": ["64:CE:D3:CF:1F:C5:5B:61:EB:A4:48:CD:0E:05:C4:F8:72:E2:9C:51:EF:4B:F8:E1:66:06:CB:B9:D7:24:86:3D"]
       }
     }]
